@@ -1,2 +1,4 @@
 # hello-world
-Este é meu primeiro repositório.
+
+Olá,pessoal! Tudo bem?
+Sou novo no mundo da programação, e este é meu primeiro repositório.
